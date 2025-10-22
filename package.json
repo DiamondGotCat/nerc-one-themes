@@ -1,0 +1,28 @@
+{
+  "name": "nerc-one-themes",
+  "displayName": "Nerc One Themes",
+  "publisher": "Nercone",
+  "description": "A modern themepack for Visual Studio Code, Made by Nercone",
+  "repository": "https://github.com/DiamondGotCat/nerc-one-themes/",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nerc One Dark A",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nerc-one-dark-a.json"
+      },
+      {
+        "label": "Nerc One Dark B",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nerc-one-dark-b.json"
+      }
+    ]
+  }
+}
