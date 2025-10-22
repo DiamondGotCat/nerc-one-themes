@@ -1,6 +1,7 @@
 {
   "name": "nerc-one-themes",
   "displayName": "Nerc One Themes",
+  "icon": "images/icon.png",
   "publisher": "Nercone",
   "description": "A modern themepack for Visual Studio Code, Made by Nercone",
   "repository": "https://github.com/DiamondGotCat/nerc-one-themes/",
