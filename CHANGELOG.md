@@ -1,5 +1,8 @@
 **NOTE:** This update log only covers changes from 1.2.0 onwards.
 
+### v1.5.0
+- Changed Header Image of README.md
+
 ### v1.4.0
 - Changed the intensity of the shadow at the top of the editor when scrolling
 

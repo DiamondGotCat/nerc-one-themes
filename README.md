@@ -1,4 +1,4 @@
-![Screenshot of Nerc One Dark A theme](images/screenshot.png)
+![Header Image](images/header.png)
 
 # Nerc One Themes
 A modern themepack for Visual Studio Code, Made by Nercone
