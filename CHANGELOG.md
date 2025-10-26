@@ -1,5 +1,8 @@
 **NOTE:** This update log only covers changes from 1.2.0 onwards.
 
+### v1.6.0
+- Removed the border below the active tab
+
 ### v1.5.0
 - Changed Header Image of README.md
 
