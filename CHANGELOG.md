@@ -1,5 +1,8 @@
 **NOTE:** This update log only covers changes from 1.2.0 onwards.
 
+### v1.6.1
+- Added support for VSCode 1.104.0
+
 ### v1.6.0
 - Removed the border below the active tab
 

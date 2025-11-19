@@ -5,9 +5,9 @@
   "publisher": "Nercone",
   "description": "A modern themepack for Visual Studio Code, Made by Nercone",
   "repository": "https://github.com/DiamondGotCat/nerc-one-themes/",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "engines": {
-    "vscode": "^1.105.0"
+    "vscode": "^1.104.0"
   },
   "categories": [
     "Themes"
